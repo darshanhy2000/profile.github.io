@@ -280,23 +280,23 @@
                 <ul>
                     <li>
                         <span class="language">HTML</span>
-                        <span class="stars">★★★☆☆</span>
+                        <span class="stars"> ★★★☆☆</span>
                     </li>
                     <li>
                         <span class="language">JavaScript</span>
-                        <span class="stars">★★★☆☆</span>
+                        <span class="stars"> ★★★☆☆</span>
                     </li>
                     <li>
                         <span class="language">CSS</span>
-                        <span class="stars">★★★☆☆</span>
+                        <span class="stars"> ★★★☆☆</span>
                     </li>
                     <li>
                         <span class="language">Java</span>
-                        <span class="stars">★★★☆☆</span>
+                        <span class="stars"> ★★★☆☆</span>
                     </li>
                     <li>
                         <span class="language">Python</span>
-                        <span class="stars">★★★☆☆</span>
+                        <span class="stars"> ★★★☆☆</span>
                     </li>
                 </ul>
             </section>
